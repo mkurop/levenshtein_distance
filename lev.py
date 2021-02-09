@@ -2,6 +2,8 @@
 
 """Module for computation of the levenshtein distance between two strings"""
 
+# (c) Marcin Piotr Kuropatwiński, 2021
+
 __author__ = 'markurop'
 
 import functools
